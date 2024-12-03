@@ -2,3 +2,4 @@ db.sqlite3
 mysite/__pycache__/
 mysite/settings/__pycache__/
 home/migrations/__pycache__/
+mysite/settings/base.py 
