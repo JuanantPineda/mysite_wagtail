@@ -159,7 +159,7 @@ STORAGES = {
 
 # Wagtail settings
 
-WAGTAIL_SITE_NAME = "mysite"
+WAGTAIL_SITE_NAME = "Pinesite"
 
 # Search
 # https://docs.wagtail.org/en/stable/topics/search/backends.html
